@@ -1,0 +1,5 @@
+.venv
+.idea
+clean.py
+backup.py
+main.py
